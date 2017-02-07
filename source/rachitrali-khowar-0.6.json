@@ -1,0 +1,13 @@
+    "id" : "rachitrali-khowar",
+9	    "name" : "Khowar",
+10	    "filename" : "rachitrali-khowar-0.6.js",
+11	    "version" : "0.6",
+12	    "lastModified" : "2017-02-07T16:13:40+00:00",
+13	    "languages" : [
+14	      {
+15	        "id" : "khw",
+16	        "name" : "Khowar"
+17	      }
+18	      ]
+19	  }
+20	}
